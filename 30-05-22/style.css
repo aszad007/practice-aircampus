@@ -59,7 +59,6 @@ nav ul li a:hover{
 .btn:hover{
 	transform: scale(1.2);
 }
-
 .content{
 	position: absolute;
 	top: 50%;
@@ -107,6 +106,7 @@ h4{
 	top: 6px;
 	right: 6px; 
 }
+/*Main Section*/
 
 .about{
 	width: 100%;
@@ -259,6 +259,7 @@ h5{
 	border: 2px solid rgb(232, 22, 22);
 	cursor: pointer;
 }
+/*Footer Part*/
 footer{
 	position: relative;
 	width: 100%;
